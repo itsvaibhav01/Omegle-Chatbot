@@ -1,7 +1,9 @@
 # Omegle-Chatbot
 An Omegle Chatbot for promotion of Social media content or use it to increase views on YouTube. With the help of Chatterbot AI, this chatbot can be customized with new QnAs and will deal in a humanly way.    
 Used Selenium for Web Automation and English corpus data to train chatbot. [other languages](https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data)
-![](omg/saved2.png) | ![](omg/saved4.png)
+    
+![](omg/saved2.png) 
+![](omg/saved4.png)
 ## To setup and run
 `~$ python3 app.py`
 ## ChatterBot Installation
